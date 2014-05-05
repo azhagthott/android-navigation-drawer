@@ -1,4 +1,4 @@
 android-navigation-drawer
 =========================
 
-Navigation Drawer
+Navigation Drawer basic example
